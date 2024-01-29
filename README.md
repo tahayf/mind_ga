@@ -1,4 +1,4 @@
-# mind_ga
+# mind_game
 
 This project made by me for YTU Computer Engineering BLM1011 lesson. 
 
